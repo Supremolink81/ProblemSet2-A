@@ -1,3 +1,5 @@
+//Instantiates Calculator class and calls display function
+
 class CalcDriver{
     public static void main(String[] args){
         Calculator c=new Calculator();

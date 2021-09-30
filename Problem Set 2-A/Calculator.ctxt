@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=Calculator
+comment0.text=\r\n\ \ \ Name\:\ Ario\ Zareinia\r\n\ \ \ Period\:\ 1-1\r\n\ \ \ Project\:\ 2-A\r\n
 comment1.params=v\ w\ x\ y\ z\ a
 comment1.target=void\ display(double,\ double,\ double,\ double,\ double,\ double)
 comment2.params=x1\ y1\ x2\ y2
